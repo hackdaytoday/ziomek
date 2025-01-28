@@ -1,0 +1,1 @@
+-- SQL Schema for SUI Planet database
